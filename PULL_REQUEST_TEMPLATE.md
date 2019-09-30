@@ -12,7 +12,7 @@ In order to help us evaluate PRs better, we ask you to have a look at the follow
 
 
 
- | Name | Profile | Skills | Degree | PR | Rank|
+ | Shubham | shubham100ev | Android developer | B Tech | PR | 00|
  |:--------|:--------:|:------------:|:------------:|:------------:|:------------:|
  | [your name]( github link) | your profile | your skills | your degree | no. of merged PR| give rank,compare to current readme |
  
